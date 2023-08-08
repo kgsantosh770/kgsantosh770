@@ -7,9 +7,7 @@
 - 🔍 Detail-oriented engineer, optimized user experiences.
 - 🏗️ Software architect, merging form and function.
 
-<br/>
 ## Major Technical Skills
-
 - React.js
 - HTML5 & CSS3
 - JavaScript ES6+
@@ -17,9 +15,9 @@
 - Git
 - Python
 
-<br/>
 ## Get in Touch:
-
 - 📧 Email: santhoshkrishna770@gmail.com
 - 📱 Phone: +91-8825840570
+- 🔗 Linkedin: [Connect with me](https://www.linkedin.com/in/santoshkg/)
+- 🌐 Website: [https://kgsantosh770.github.io/](https://kgsantosh770.github.io/)
 - 🏡 Location: Bengaluru, Karnataka, India
