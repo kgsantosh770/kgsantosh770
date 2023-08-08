@@ -7,9 +7,8 @@
 - 🔍 Detail-oriented engineer, optimized user experiences.
 - 🏗️ Software architect, merging form and function.
 
-## Skills
+## Major Technical Skills
 
-Frontend Tech:
 - React.js
 - HTML5 & CSS3
 - JavaScript ES6+
