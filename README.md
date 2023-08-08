@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Santosh Ganeshbabu
 
 I engineer innovative React.js solutions.
-🎨 Passion for elegant, functional code.
-🤝 Collaborative problem-solver, efficient coding.
-🚀 Tech enthusiast, emerging tech solutions.
-🔍 Detail-oriented engineer, optimized user experiences.
-🏗️ Software architect, merging form and function.
+- 🎨 Passion for elegant, functional code.
+- 🤝 Collaborative problem-solver, efficient coding.
+- 🚀 Tech enthusiast, emerging tech solutions.
+- 🔍 Detail-oriented engineer, optimized user experiences.
+- 🏗️ Software architect, merging form and function.
 
 ## Skills
 
