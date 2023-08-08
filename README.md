@@ -7,8 +7,7 @@
 - 🔍 Detail-oriented engineer, optimized user experiences.
 - 🏗️ Software architect, merging form and function.
 
-
-
+<br><br>
 ## Major Technical Skills
 
 - React.js
@@ -18,8 +17,7 @@
 - Git
 - Python
 
-
-
+<br><br>
 ## Get in Touch:
 
 - 📧 Email: santhoshkrishna770@gmail.com
