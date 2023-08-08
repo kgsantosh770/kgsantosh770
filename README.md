@@ -7,6 +7,8 @@
 - 🔍 Detail-oriented engineer, optimized user experiences.
 - 🏗️ Software architect, merging form and function.
 
+
+
 ## Major Technical Skills
 
 - React.js
@@ -15,6 +17,8 @@
 - Responsive Design
 - Git
 - Python
+
+
 
 ## Get in Touch:
 
